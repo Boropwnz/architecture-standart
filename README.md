@@ -11,6 +11,14 @@
 
 ![Карта текущего IT-ландшафта](https://github.com/Boropwnz/architecture-standart/blob/standart/Task1/it_landscape.png)
 
+
+На схеме интеграции ниже красным отмечены планируемые изменения.
+
+[Схема интеграции приложений](https://github.com/Boropwnz/architecture-standart/blob/standart/Task1/app_integration_scheme.drawio)
+
+![схема интеграции приложений](https://github.com/Boropwnz/architecture-standart/blob/standart/Task1/app_integration_scheme.png)
+
+
 ## Задание 2. FURPS+ таблица
 
 
